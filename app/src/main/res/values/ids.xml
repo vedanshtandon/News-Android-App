@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="item_breaking_news" type="id" />
+    <item name="item_search_news" type="id" />
+    <item name="item_saved_news" type="id" />
+    <item name="menuItemText" type="id" />
+    <item name="news_item_image" type="id" />
+    <item name="SaveNewsButton" type="id" />
+</resources>
